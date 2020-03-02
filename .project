@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ArrayList</name>
+	<comment></comment>
+	<projects>
+		<project>ChromeTest</project>
+		<project>ConstractorTry</project>
+		<project>ControlStatements</project>
+		<project>CourseTask</project>
+		<project>Datatypes</project>
+		<project>FireFoxTest</project>
+		<project>Inheritance</project>
+		<project>RemoteSystemsTempFiles</project>
+		<project>SameAndDifferentPackge</project>
+		<project>ScannerClass</project>
+		<project>TakesScreenShot</project>
+		<project>YuvaJavacom</project>
+		<project>YuvaKing</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
